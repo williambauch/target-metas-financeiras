@@ -1,4 +1,4 @@
-package com.targetmetasfinanceiras
+package com.targetmetasfinaceiras
 
 import android.os.Build
 import android.os.Bundle
